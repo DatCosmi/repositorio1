@@ -1,2 +1,2 @@
-# repositorio1
+# Mi primer supositorio
 Supositorio de prueba 👍
